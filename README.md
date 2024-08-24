@@ -1,0 +1,1 @@
+# pratica-ola-mundo-rabbitmq
